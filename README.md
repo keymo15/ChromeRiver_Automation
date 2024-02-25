@@ -1,5 +1,3 @@
-# SFTP File Downloader and Email Notifier
-
 This Python script connects to an SFTP server, downloads files that were uploaded within the last two days, moves them to a new local directory named after the common upload date of the files, and sends an email notification with the details of the downloaded files.
 
 ## Prerequisites
